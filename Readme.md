@@ -24,6 +24,6 @@ Request Url
 -  /logStdout?level=info&msg=HelloWorld
     - LEVEL : DEBUG, INFO, WARN, ERROR, ETC
     - The default value for the level parameter is all.
-    - The default value for the msg parameter is 'Log Hellow World'.
+    - The default value for the msg parameter is 'Log Hello World'.
 -  /print?msg=HelloWorld
-    - The default value for the msg parameter is 'Print Hellow World'.
+    - The default value for the msg parameter is 'Print Hello World'.
