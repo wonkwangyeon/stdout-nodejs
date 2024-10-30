@@ -10,7 +10,7 @@ NodeJs version >= ??
 
 Using container build
 ```
-docker build -t stdout:latest .
+docker build -t stdout/node:latest .
 ```
 
 # K8S Deploy
