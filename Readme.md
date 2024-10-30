@@ -2,8 +2,6 @@
 Logging service for fluentbit(or etc...) test
 Callable by log level.
 
-# Prerequisites
-NodeJs version >= ??
 
 # Build
 > ctr -n=k8s.io images import stdout.tar
