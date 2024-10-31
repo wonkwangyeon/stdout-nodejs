@@ -29,7 +29,7 @@ metadata:
     stdout: stdout-node
 spec:
   selector:
-    app: stdout-node
+    stdout: stdout-node
   ports:
     - protocol: TCP
       port: 3001
